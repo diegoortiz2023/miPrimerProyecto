@@ -1,0 +1,3 @@
+1. Dominar tecnologías clave: Establecer un dominio sólido en las tecnologías front-end y back-end relevantes para el desarrollo full stack, como HTML, CSS, JavaScript, Node.js, bases de datos, etc.
+2. Desarrollar proyectos significativos: Crear al menos uno o varios proyectos completos desde cero para poner en práctica los conocimientos adquiridos, mostrando habilidades tanto en el diseño como en la implementación.
+3. Construir una red profesional: Conectar con profesionales de la industria, participar en eventos, grupos de estudio o comunidades online para expandir tu red de contactos y posiblemente encontrar oportunidades laborales o colaborativas.
