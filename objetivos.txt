@@ -1,0 +1,1 @@
+1. Dominar tecnologías clave: Establecer un dominio sólido en las tecnologías front-end y back-end relevantes para el desarrollo full stack, como HTML, CSS, JavaScript, Node.js, bases de datos, etc.
